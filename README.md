@@ -6,10 +6,10 @@ Amac : Kayıt olan kullanıcıların, profil resimlerini sunucuya yüklemeden gr
   `pip install git+https://github.com/AliYmn/Python-Gravatar`
 
 # Python-Gravatar Kullanımı
-* Paketi ekliyelim.
+
 `import Gravatar`
-* Kullanımı : 
 ` Gravatar_Python = Gravatar.Gravatar('aliymn.db@gmail.com')`
-` Gravatar_Python.profile()`
+`Gravatar_Python_Profile =  Gravatar_Python.profile()`
+` print('Gravatar_Python_Profile') `
 
 İşte Bukadar!
