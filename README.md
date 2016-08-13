@@ -4,6 +4,7 @@ Python üzerinde kullanabilceğiniz gravatar kütüphanesidir.
 `Amac` : Kayıt olan kullanıcıların, profil resimlerini sunucuya yüklemeden gravatar üzerinden çekmenizi sağlayacaktır.
 
 # Kurulum
+  Ver : 1.0
   `pip install git+https://github.com/AliYmn/Python-Gravatar`
 
 # Python-Gravatar Kullanımı
