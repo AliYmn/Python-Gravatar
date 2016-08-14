@@ -6,7 +6,8 @@ Python üzerinde kullanabilceğiniz gravatar kütüphanesidir.
 # Kurulum
   Ver : 1.0
   
-  `pip install git+https://github.com/AliYmn/Python-Gravatar`
+  `pip3 install git+https://github.com/AliYmn/Python-Gravatar`
+  `pip3 install git+https://github.com/AliYmn/Python-Gravatar`
 
 # Python-Gravatar Kullanımı
 
