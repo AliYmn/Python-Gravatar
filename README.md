@@ -6,7 +6,12 @@ Python üzerinde kullanabilceğiniz gravatar kütüphanesidir.
 # Kurulum
   Ver : 1.0
   
-  `pip3 install git+https://github.com/AliYmn/Python-Gravatar`
+  Python Ver : 3x
+  
+  NOT : Eğer python 2.7 ve 3x yüklü ise aşşağıdakileri sırayla giriniz.
+  Sadece Python3 yüklü ise pip3'dekini kurmanız yeterli olacaktır.
+  
+  `pip install git+https://github.com/AliYmn/Python-Gravatar`
   
   `pip3 install git+https://github.com/AliYmn/Python-Gravatar`
 
