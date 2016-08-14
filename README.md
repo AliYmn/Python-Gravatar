@@ -10,10 +10,11 @@ Python üzerinde kullanabilceğiniz gravatar kütüphanesidir.
   
   NOT : Eğer python 2.7 ve 3x yüklü ise aşşağıdakileri sırayla giriniz.
   Sadece Python3 yüklü ise pip3'dekini kurmanız yeterli olacaktır.
+  Ek bilgi : Windows kullaniyorsanız başındaki sudo etiketini kaldırın.
   
-  `pip install git+https://github.com/AliYmn/Python-Gravatar`
+  `sudo pip install git+https://github.com/AliYmn/Python-Gravatar`
   
-  `pip3 install git+https://github.com/AliYmn/Python-Gravatar`
+  `sudo pip3 install git+https://github.com/AliYmn/Python-Gravatar`
 
 # Python-Gravatar Kullanımı
 
