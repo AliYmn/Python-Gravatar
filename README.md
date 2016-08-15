@@ -25,6 +25,7 @@ Python üzerinde kullanabilceğiniz gravatar kütüphanesidir.
 `Gravatar_Python_Profile =  Gravatar_Python.profile()`
 
 ` print('Gravatar_Python_Profile') `
+
 `>>> http://www.gravatar.com/avatar/323fad61ec978a5b3425fbe56b06a101`
 
 
