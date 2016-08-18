@@ -29,4 +29,4 @@ Python üzerinde kullanabilceğiniz gravatar kütüphanesidir.
 `>>> http://www.gravatar.com/avatar/323fad61ec978a5b3425fbe56b06a101`
 
 
-~~İşte Bukadar!~~
+** İşte Bukadar ! **
