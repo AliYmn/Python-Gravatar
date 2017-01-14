@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='Python-Gravatar',
-    version='1.0',
+    version='1.1',
     packages=[''],
     url='https://github.com/AliYmn/Python-Gravatar',
     license='MIT License',
